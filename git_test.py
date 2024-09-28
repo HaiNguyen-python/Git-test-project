@@ -1,4 +1,5 @@
-Python 3.10.0 (tags/v3.10.0:b494f59, Oct  4 2021, 19:00:18) [MSC v.1929 64 bit (AMD64)] on win32
-Type "help", "copyright", "credits" or "license()" for more information.
+# File: git_test.py
+# Author: Hai Nguyen
+# Description: Code for git testing purposes
 
-I am very familiar with Git
+print("Here is the change of my code")
