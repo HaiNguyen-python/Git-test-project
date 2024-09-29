@@ -2,4 +2,4 @@
 # Author: Hai Nguyen
 # Description: Code for git testing purposes
 
-print("I changed my code again!")
+print("Here is the change of my code for this assignment!")
